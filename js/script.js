@@ -4,7 +4,7 @@ const clientsDescription = document.querySelector(".clients-description");
 
 clientsProject[0].addEventListener("mouseover", function() {
   clientsTitle.innerHTML =
-    '<img src="img/enkelt.png" width="400px" height="150px">';
+    '<img src="img/enkelt.png" width="400px" height="300px">';
 
   clientsDescription.innerHTML =
     "Designed and developed a web-based asset maintenance & management system for their clients";
@@ -17,7 +17,7 @@ clientsProject[0].addEventListener("mouseout", function() {
 
 clientsProject[1].addEventListener("mouseover", function() {
   clientsTitle.innerHTML =
-    '<img src="img/bluewater.png" width="400px" height="150px">';
+    '<img src="img/bluewater.png" width="400px" height="300px">';
 
   clientsDescription.innerHTML =
     "Developed a web-based asset management system for their oil and gas rigs";
@@ -31,7 +31,7 @@ clientsProject[1].addEventListener("mouseout", function() {
 
 clientsProject[2].addEventListener("mouseover", function() {
   clientsTitle.innerHTML =
-    '<img src="img/arnlealogo.png" width="300px" height="300px">';
+    '<img src="img/arnlealogo.png" width="400px" height="300px">';
 
   clientsDescription.innerHTML =
     "Assisted in developing operations management and material management systems that runs in mobile, desktop and web";
@@ -45,7 +45,7 @@ clientsProject[2].addEventListener("mouseout", function() {
 
 clientsProject[3].addEventListener("mouseover", function() {
   clientsTitle.innerHTML =
-    '<img src="img/greenkleen.png" width="400px" height="150px">';
+    '<img src="img/greenkleen.png" width="400px" height="300px">';
 
   clientsDescription.innerHTML =
     "Designed and developed GreenKleen's official website";
@@ -59,7 +59,7 @@ clientsProject[3].addEventListener("mouseout", function() {
 
 clientsProject[4].addEventListener("mouseover", function() {
   clientsTitle.innerHTML =
-    '<img src="img/herbidoor.png" width="400px" height="150px">';
+    '<img src="img/herbidoor.png" width="400px" height="300px">';
 
   clientsDescription.innerHTML = "Commissioned to design the company's logo ";
 });
@@ -72,7 +72,7 @@ clientsProject[4].addEventListener("mouseout", function() {
 
 clientsProject[5].addEventListener("mouseover", function() {
   clientsTitle.innerHTML =
-    '<img src="img/amandarose.png" width="400px" height="150px">';
+    '<img src="img/amandarose.png" width="400px" height="300px">';
 
   clientsDescription.innerHTML =
     "Commissioned to design company's logo and graphics for their social media accounts";
