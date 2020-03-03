@@ -1,0 +1,22 @@
+/* NAVIGATION */
+#main-nav {
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#main-nav h1 {
+  font-size: 2rem;
+}
+
+#main-nav ul {
+  display: flex;
+}
+
+#main-nav li {
+  margin-right: 20px;
+}
+
+#main-nav li:last-child {
+  margin-right: 0;
+}
