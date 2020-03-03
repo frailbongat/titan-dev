@@ -20,3 +20,23 @@
 #main-nav li:last-child {
   margin-right: 0;
 }
+
+#clientsandprojects {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #ffeeba;
+  width: 150%;
+  font-size: 1rem;
+}
+
+#cp {
+  background-color: #ffffff;
+  margin-block-start: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-block-end: 15px;
+  padding: 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
