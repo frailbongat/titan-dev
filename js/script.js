@@ -11,8 +11,7 @@ clientsProject[0].addEventListener("mouseover", function() {
 });
 clientsProject[0].addEventListener("mouseout", function() {
   clientsTitle.innerHTML = "Clients & Project";
-  clientsDescription.innerHTML =
-    "this a sample sample sample sample sample sample more sample more sample sample more sample sample example";
+  clientsDescription.innerHTML = " ";
 });
 
 clientsProject[1].addEventListener("mouseover", function() {
@@ -25,8 +24,7 @@ clientsProject[1].addEventListener("mouseover", function() {
 
 clientsProject[1].addEventListener("mouseout", function() {
   clientsTitle.innerHTML = "Clients & Project";
-  clientsDescription.innerHTML =
-    "this a sample sample sample sample sample sample more sample more sample sample more sample sample example";
+  clientsDescription.innerHTML = " ";
 });
 
 clientsProject[2].addEventListener("mouseover", function() {
@@ -39,8 +37,7 @@ clientsProject[2].addEventListener("mouseover", function() {
 
 clientsProject[2].addEventListener("mouseout", function() {
   clientsTitle.innerHTML = "Clients & Project";
-  clientsDescription.innerHTML =
-    "this a sample sample sample sample sample sample more sample more sample sample more sample sample example";
+  clientsDescription.innerHTML = " ";
 });
 
 clientsProject[3].addEventListener("mouseover", function() {
@@ -53,8 +50,7 @@ clientsProject[3].addEventListener("mouseover", function() {
 
 clientsProject[3].addEventListener("mouseout", function() {
   clientsTitle.innerHTML = "Clients & Project";
-  clientsDescription.innerHTML =
-    "this a sample sample sample sample sample sample more sample more sample sample more sample sample example";
+  clientsDescription.innerHTML = " ";
 });
 
 clientsProject[4].addEventListener("mouseover", function() {
@@ -66,8 +62,7 @@ clientsProject[4].addEventListener("mouseover", function() {
 
 clientsProject[4].addEventListener("mouseout", function() {
   clientsTitle.innerHTML = "Clients & Project";
-  clientsDescription.innerHTML =
-    "this a sample sample sample sample sample sample more sample more sample sample more sample sample example";
+  clientsDescription.innerHTML = " ";
 });
 
 clientsProject[5].addEventListener("mouseover", function() {
@@ -80,6 +75,5 @@ clientsProject[5].addEventListener("mouseover", function() {
 
 clientsProject[5].addEventListener("mouseout", function() {
   clientsTitle.innerHTML = "Clients & Project";
-  clientsDescription.innerHTML =
-    "this a sample sample sample sample sample sample more sample more sample sample more sample sample example";
+  clientsDescription.innerHTML = " ";
 });
