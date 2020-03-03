@@ -20,3 +20,55 @@
 #main-nav li:last-child {
   margin-right: 0;
 }
+
+
+/* Our Team */
+#ourteam {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: white;
+  padding: 10px;
+  width: 40vw;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid white;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.grid-item img {
+  border-radius: 50%;
+}
+
+.grid-item:hover {
+  transform: scale(1.2);
+}
+
+.ourteam-right {
+  padding-left: 3rem;
+  width: 40vw;
+}
+
+.ourteam-description {
+  align-content: center;
+}
+/* 
+#pic2 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+#pic3 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+} */
+
