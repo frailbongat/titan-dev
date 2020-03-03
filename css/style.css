@@ -26,17 +26,19 @@
   display: flex;
   flex-direction: column;
   height: 100%;
-  background-color: #ffeeba;
-  width: 60vw;
-  font-size: 1rem;
+  background-color: #cbf2dd;
+  width: 100vw;
+  font-size: 1.25rem;
+  font-weight: bold;
   padding-top: 1.2rem;
   padding-bottom: 1.2rem;
+  border-radius: 5px;
 }
 
 .clients-project {
   background-color: #ffffff;
   margin: 5px 30px;
-  padding: 30px;
+  padding: 40px;
   text-decoration: none;
   border-radius: 5px;
   display: block;
@@ -48,9 +50,10 @@
 }
 
 .feature-text-left {
-  width: 40vw;
+  width: 30vw;
+  padding-top: 50px;
 }
 
 .clients-description {
-  width: 40vw;
+  width: 30vw;
 }
